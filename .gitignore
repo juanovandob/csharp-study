@@ -1,0 +1,64 @@
+# Archivos y directorios generados por .NET
+bin/
+obj/
+
+# Directorios generados por Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Archivos generados por Rider (si usas JetBrains Rider)
+.idea/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de usuario de Visual Studio (en Windows)
+# El archivo .user contiene configuraciones específicas de la máquina
+*.user
+*.userosscache
+*.suo
+
+# Archivos de base de datos de SQLite (si aplicable)
+*.db
+
+# Archivos de log de aplicaciones
+*.log
+
+# Archivos de dependencias de paquetes NuGet
+# Estos archivos no se deben versionar, ya que se pueden regenerar a través de la restauración de paquetes.
+packages/
+.nuget/
+# .NET Core y .NET Standard
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Directorios y archivos de contenedores de Docker (si usas Docker)
+.docker/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos temporales y de caché del sistema
+# Archivos temporales de VS Code
+.vscode/*
+
+# Archivos de logs y cachés de otros IDEs
+.idea/
+
+# Archivos de proyecto en desarrollo en macOS
+.DS_Store
+
