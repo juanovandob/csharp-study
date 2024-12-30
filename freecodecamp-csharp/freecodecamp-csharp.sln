@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calificaciones", "src\Calif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGpaFinal", "src\CalculoGpaFinal\CalculoGpaFinal.csproj", "{3C82541A-22D6-4BB1-9B2B-7DF6681BB409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliotecas-net", "src\Bibliotecas-net\Bibliotecas-net.csproj", "{6134633E-40C7-462B-A963-BBB48A63A220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +28,14 @@ Global
 		{3C82541A-22D6-4BB1-9B2B-7DF6681BB409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C82541A-22D6-4BB1-9B2B-7DF6681BB409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C82541A-22D6-4BB1-9B2B-7DF6681BB409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6134633E-40C7-462B-A963-BBB48A63A220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6134633E-40C7-462B-A963-BBB48A63A220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6134633E-40C7-462B-A963-BBB48A63A220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6134633E-40C7-462B-A963-BBB48A63A220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E2183DAC-D580-440D-85F0-7E98D5202CD2} = {5D6B07B5-2EBB-4B97-9619-808DE7A5052E}
 		{3C82541A-22D6-4BB1-9B2B-7DF6681BB409} = {5D6B07B5-2EBB-4B97-9619-808DE7A5052E}
+		{6134633E-40C7-462B-A963-BBB48A63A220} = {5D6B07B5-2EBB-4B97-9619-808DE7A5052E}
 	EndGlobalSection
 EndGlobal
